@@ -26,9 +26,6 @@ Interaja com a Pokédex, pesquisando Pokémon, explorando a lista por região e 
 # Contribuição
 Contribuições para a melhoria deste projeto são bem-vindas. Se você encontrou algum problema ou deseja adicionar novas funcionalidades, fique à vontade para enviar um pull request.
 
-# Licença
-Este projeto está licenciado sob a licença MIT.
-
 # Agradecimentos
 Aos desenvolvedores da PokéAPI por fornecerem uma fonte de dados rica e acessível para construir este projeto.
 Ao canal Manual do dev e seu criador Rolwane por disponibilizarem o coneúdo a respeito da criação do projeto.
